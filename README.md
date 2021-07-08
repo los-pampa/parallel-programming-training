@@ -1,1 +1,1 @@
-# parallel-programming-training
+# Repositório de Trainamento do Grupo de Programação Paralela do LOS
