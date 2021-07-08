@@ -1,1 +1,1 @@
-# Repositório de Trainamento do Grupo de Programação Paralela do LOS
+# Repositório de Treinamento do Grupo de Programação Paralela do LOS
